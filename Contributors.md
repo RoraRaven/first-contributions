@@ -1,6 +1,7 @@
 happy# Contributors
 
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
+-[Barun Rajak](https://github.com/Barungit)
 - [zsunit](https://github.com/zsunit)
 - [Neer Amrutia](https://github.com/neeramrutia)
 - [Santu Dhali](https://github.com/santu-dhali): just checking how to contribute in open source.
@@ -2648,3 +2649,4 @@ LadegbayeStella)
 - [Praveen](https://github.com/Praveen787)
 - [Zachary Church](https://github.com/Zchurch11/)
 - [Zeddoun Lokmane](https://github.com/lokmanzeddoun)
+- [Bima Pangestu](https://github.com/punkestu)
